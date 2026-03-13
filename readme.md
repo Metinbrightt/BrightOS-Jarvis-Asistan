@@ -1,6 +1,6 @@
 # 🤖 BRIGHTOS — Kişisel Yapay Zeka Asistanı
 
-**Kurulum ve Kullanım Videosu**: https://www.youtube.com/watch?v=-YjbWjb1tJg
+**Tanıtım Videosu**: https://www.instagram.com/reel/DV1UjTODUvr/
 
 ### Yeni Nesil Sesli Yapay Zeka — Gücü Sizin Elinizde
 
