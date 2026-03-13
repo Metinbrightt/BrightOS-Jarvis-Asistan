@@ -37,10 +37,7 @@ python main.py
 * Windows 10 / 11
 * Python 3.10 veya daha yeni sürüm
 * Mikrofon
-* Gemini API Anahtarı
+* Gemini API Anahtarı (Kurulum aşamasında ABD/USA konumlu VPN kullanılması önerilir)
 
-## ⚠️ Lisans
-
-Kişisel ve ticari olmayan kullanım içindir. **Creative Commons BY-NC 4.0** altında lisanslanmıştır.
-
-⭐ Projeyi desteklemek için depoyu yıldızlamayı (star) unutmayın!
+> [!IMPORTANT]
+> Gemini API anahtarını [Google AI Studio](https://aistudio.google.com/) üzerinden alırken bölgesel kısıtlama sorunu yaşıyorsanız, Amerika (USA) konumlu bir VPN kullanmanız tavsiye edilir.
