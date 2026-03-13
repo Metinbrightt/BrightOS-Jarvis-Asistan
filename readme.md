@@ -24,8 +24,8 @@ Hız, özerklik ve gerçek dünya kullanımı için optimize edilmiştir.
 ## ⚡ Hızlı Başlangıç
 
 ```bash
-git clone https://github.com/Metinbrightt/BrightOS-Jarvis-Assistant
-cd BrightOS-Jarvis-Assistant
+git clone https://github.com/Metinbrightt/BrightOS-Jarvis-Asistan
+cd BrightOS-Jarvis-Asistan
 python setup.py
 python main.py
 ```
